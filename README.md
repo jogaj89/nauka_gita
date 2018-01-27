@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 ## nauka gita
-Zjazd nr 4
+Zjazd nr 4 - edycja
 ## Powtarzamy gita
 podejscie nr2
 =======
